@@ -4,7 +4,6 @@
 #### Run : 
 ```
 root@mrcakil:#bash CVE2023-23752.sh
-
 ```
 
 * Bug ? Contact My Telegram : @MrcakilReal
