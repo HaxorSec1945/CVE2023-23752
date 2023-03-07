@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/5xkQQ25/screenshot.jpg)
+![alt text](https://raw.githubusercontent.com/HaxorSec1945/CVE2023-23752/main/screenshot.jpg)
 # Mass Scanner Joomla Config CVE2023-23752
 ### Requirements : curl
 #### Run : 
